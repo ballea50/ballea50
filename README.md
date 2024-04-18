@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ballea50
+- 👋 Hi, my name is Alfred Balle
 - 👀 I’m interested in all kind of programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on machine learning
